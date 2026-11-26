@@ -1,21 +1,19 @@
-Hi, I'm Gudia Rautela
+# Gudia Rautela | UI/UX Design Portfolio
 
-UI/UX design student at Manipal University Jaipur (3rd year).
+Portfolio website of Gudia Rautela, a third-year UI/UX design student at Manipal University Jaipur.
 
-I design apps and experiences where shape, colour and flow decide whether people feel welcome. I care about designing for people, not just screens.
+**Live site:** https://gudiarautela5-jpg.github.io/portfolio/
 
-Portfolio
-Live site: https://rautelagudia.github.io/portfolio/
-Repository: https://github.com/rautelagudia/portfolio
-Selected work
-Dear Future Me - a digital time capsule app for college students
-Aaj Thoda Ruk - a launch campaign for Thoda Ruk Cafe
-Tools and skills
+## What is inside
+- `index.html` - the whole site: home, work, services, about and contact
+- `images/` - project screens and mockups
 
-Figma, ShapesXR, Unity Hub, Autodesk Fusion 360, Adobe Illustrator, Adobe Photoshop
+## Projects
+- **Dear Future Me** - a digital time capsule app for college students
+- **Aaj Thoda Ruk** - a launch campaign for Thoda Ruk Cafe
 
-UI design, UX research, wireframing, prototyping, user testing, visual design, problem solving
+## Built with
+HTML, CSS and JavaScript, written with AI-assisted ("vibe") coding. The content, structure and design decisions are mine.
 
-Contact
-
+## Contact
 gudiarautela5@gmail.com
